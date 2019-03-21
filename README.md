@@ -1,2 +1,2 @@
 # March-Madness
-I script to fill out a March Madness bracket using historical win percentage probabilities. 
+I script to predict March Madness bracket results using historical win percentage probabilities. 
